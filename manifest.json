@@ -1,24 +1,18 @@
 {
-  "manifest_version": 2,
-  "name": "TypingClub Story Translator",
+  "manifest_version": 3,
+  "name": "TypingClub Story Translate Plugin",
   "version": "1.0",
-  "description": "Replace English text with Polish translations on TypingClub story pages.",
-  "permissions": ["activeTab", "storage"],
-  "content_scripts": [
-    {
-      "matches": ["https://www.typingclub.com/*"],
-      "js": ["content.js"]
-    }
-  ],
-  "background": {
-    "scripts": ["background.js"]
+  "description": "Replace English stories with Polish translations in TypingClub.",
+  "icons": {
+    "128": "icons/icon128.png"
   },
-  "browser_action": {
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["*://*/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
     "default_popup": "popup.html",
-    "default_icon": {
-      "16": "icons/icon16.png",
-      "48": "icons/icon48.png",
-      "128": "icons/icon128.png"
-    }
+    "default_icon": "icons/icon128.png"
   }
 }
