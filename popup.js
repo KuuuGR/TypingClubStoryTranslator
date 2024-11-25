@@ -16,21 +16,17 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
-    // Copy text to clipboard
+    // Copy text to clipboard without an alert
     copyButton.addEventListener("click", () => {
         const textToCopy = originalTextArea.value.trim(); // Clean up the text
         if (textToCopy) {
-            navigator.clipboard.writeText(textToCopy).then(() => {
-                alert("Text copied to clipboard!");
-            }).catch((err) => {
+            navigator.clipboard.writeText(textToCopy).catch((err) => {
                 console.error("Failed to copy text: ", err);
             });
-        } else {
-            alert("No text to copy!");
         }
     });
 
-    // Save translation and replace text on the webpage
+    // Save translation and update the page without breaking the DOM structure
     saveButton.addEventListener("click", () => {
         const translation = translatedTextArea.value.trim();
 
@@ -41,8 +37,18 @@ document.addEventListener("DOMContentLoaded", () => {
                     func: (newText) => {
                         const storyContainer = document.querySelector('.story_typable');
                         if (storyContainer) {
-                            // Replace the text with the new translation
-                            storyContainer.innerHTML = `<span>${newText}</span>`;
+                            // Update text content while preserving the DOM structure
+                            const tokens = storyContainer.querySelectorAll('.token_unit');
+                            let translationIndex = 0;
+
+                            tokens.forEach(token => {
+                                if (newText[translationIndex]) {
+                                    token.textContent = newText[translationIndex];
+                                    translationIndex++;
+                                } else {
+                                    token.textContent = ""; // Clear extra tokens
+                                }
+                            });
                         }
                     },
                     args: [translation],
