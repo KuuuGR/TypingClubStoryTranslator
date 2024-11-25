@@ -1,8 +1,24 @@
-// Select all relevant text elements
-document.querySelectorAll('.token_unit').forEach((el) => {
-  // Example hardcoded translation (replace with dynamic input later)
-  const translations = { "Sam": "Sam", "closed": "zamknął", "his": "swoje", "eyes": "oczy" };
-  if (translations[el.textContent.trim()]) {
-      el.textContent = translations[el.textContent.trim()];
+// Extract text from the story container
+function extractStoryText() {
+  const storyContainer = document.querySelector('.story_typable');
+  if (!storyContainer) {
+      return "Story text not found!";
+  }
+
+  // Collect text from spans
+  let storyText = "";
+  storyContainer.querySelectorAll('.token_unit').forEach(token => {
+      if (token.textContent) {
+          storyText += token.textContent;
+      }
+  });
+  return storyText.trim();
+}
+
+// Listen for messages from the popup
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+  if (request.action === "getStoryText") {
+      const storyText = extractStoryText();
+      sendResponse({ storyText });
   }
 });
