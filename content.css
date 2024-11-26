@@ -1,0 +1,5 @@
+/* content.css */
+
+.token_unit::before {
+  content: attr(data-translated-char);
+}

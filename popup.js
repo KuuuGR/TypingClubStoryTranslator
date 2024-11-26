@@ -47,7 +47,6 @@ document.addEventListener("DOMContentLoaded", () => {
   copyButton.addEventListener("click", () => {
     const textToCopy = originalTextArea.value.trim();
     if (textToCopy) {
-      // Use the Clipboard API
       navigator.clipboard.writeText(textToCopy).then(() => {
         console.log("Text copied to clipboard successfully.");
       }).catch((err) => {

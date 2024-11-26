@@ -7,6 +7,65 @@ console.log('TypingClub Story Translator content script loaded at', window.locat
 
 let currentTranslation = '';
 
+function applyTranslation() {
+  const storyContainer = document.querySelector('.story_typable');
+  if (storyContainer) {
+    const tokens = storyContainer.querySelectorAll('.token_unit');
+    let translationIndex = 0;
+
+    tokens.forEach(token => {
+      if (translationIndex < currentTranslation.length) {
+        const newChar = currentTranslation[translationIndex];
+
+        if (token.firstChild && token.firstChild.nodeType === Node.TEXT_NODE) {
+          if (token.firstChild.textContent !== newChar) {
+            token.firstChild.textContent = newChar;
+          }
+        }
+        translationIndex++;
+      }
+    });
+
+    console.log("Translation applied.");
+  } else {
+    console.error("Story container not found.");
+  }
+}
+
+let mutationTimeout;
+
+function setupMutationObserver() {
+  const observer = new MutationObserver(() => {
+    if (mutationTimeout) clearTimeout(mutationTimeout);
+
+    mutationTimeout = setTimeout(() => {
+      applyTranslation();
+    }, 10); // Short debounce time for responsiveness
+  });
+
+  observer.observe(document.body, {
+    characterData: true,
+    childList: true,
+    subtree: true
+  });
+}
+
+extension.runtime.onMessage.addListener((request, sender, sendResponse) => {
+  if (request.action === "applyTranslation") {
+    currentTranslation = request.translatedText;
+    applyTranslation();
+    setupMutationObserver();
+    sendResponse({ success: true });
+  } else if (request.action === "getStoryText") {
+    const result = extractStoryText();
+    if (result.success) {
+      sendResponse({ storyText: result.storyText });
+    } else {
+      sendResponse({ error: result.error });
+    }
+  }
+});
+
 // Function to extract the original story text
 function extractStoryText() {
   console.log('extractStoryText() called.');
@@ -29,64 +88,3 @@ function extractStoryText() {
   console.log('Extracted Story Text:', storyText);
   return { success: true, storyText };
 }
-
-// Function to apply the translation to the story
-function applyTranslation() {
-  console.log('Applying translation...');
-  const storyContainer = document.querySelector('.story_typable');
-  if (storyContainer) {
-    const tokens = storyContainer.querySelectorAll('.token_unit');
-    let translationIndex = 0;
-
-    tokens.forEach(token => {
-      if (translationIndex < currentTranslation.length) {
-        const newChar = currentTranslation[translationIndex];
-
-        // Modify only the text node to preserve event listeners and attributes
-        if (token.firstChild && token.firstChild.nodeType === Node.TEXT_NODE) {
-          token.firstChild.textContent = newChar;
-        }
-        translationIndex++;
-      }
-    });
-
-    console.log("Translation applied.");
-  } else {
-    console.error("Story container not found.");
-  }
-}
-
-// Function to set up the MutationObserver
-function setupMutationObserver() {
-  console.log('Setting up MutationObserver...');
-  const storyContainer = document.querySelector('.story_typable');
-  if (!storyContainer) {
-    console.error("Story container not found for MutationObserver.");
-    return;
-  }
-
-  const observer = new MutationObserver(() => {
-    console.log("DOM changed, re-applying translation.");
-    applyTranslation();
-  });
-
-  observer.observe(storyContainer, { childList: true, subtree: true });
-}
-
-// Message listener to handle messages from popup.js
-extension.runtime.onMessage.addListener((request, sender, sendResponse) => {
-  console.log('Content script received message:', request);
-  if (request.action === "applyTranslation") {
-    currentTranslation = request.translatedText;
-    applyTranslation();
-    setupMutationObserver();
-    sendResponse({ success: true });
-  } else if (request.action === "getStoryText") {
-    const result = extractStoryText();
-    if (result.success) {
-      sendResponse({ storyText: result.storyText });
-    } else {
-      sendResponse({ error: result.error });
-    }
-  }
-});
