@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typingclub_plugin_issues.md",
+                "file": "TypingClub_Translation_Plugin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "typingclub_plugin_issues"
+              "title": "TypingClub_Translation_Plugin"
             }
           }
         ]
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typingclub_plugin_issues.md"
+                "file": "TypingClub_Translation_Plugin.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of typingclub_plugin_issues"
+              "title": "Outline of TypingClub_Translation_Plugin"
             }
           }
         ]
@@ -152,7 +152,7 @@
   "active": "e4be665a6f579b4b",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "typingclub_plugin_issues.md",
+    "TypingClub_Translation_Plugin.md",
     "Albert Goes to Symphony Hall/Story EN.md",
     "Albert Goes to Symphony Hall/Story PL.md",
     "Camila in the Amazon/Story EN.md",
