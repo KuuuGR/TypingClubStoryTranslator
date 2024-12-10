@@ -8,10 +8,10 @@ The plugin for Firefox and Chrome is designed to enable users to extract, transl
 
 ### Current Status
 
-- The plugin **successfully extracts story text** from the TypingClub lesson pages.
-- **Uploading translations** currently faces issues:
-    - The website's scripts overwrite the uploaded text after every word, reverting back to the original text.
-    - Translations disappear immediately after spaces are encountered.
+- The plugin **successfully extracts the story text** from TypingClub lesson pages.
+- **However, uploading translations** currently encounters problems:
+    - The website’s scripts overwrite the uploaded text after each word, reverting it back to the original text.
+    - As a result, the translated text disappears once you begin typing, causing improper interaction with the original language content.
 
 ---
 ### Temporary Solution

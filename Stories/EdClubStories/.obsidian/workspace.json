@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sam & Luna/Story PL.md",
+                "file": "TypingClub_Translation_Plugin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story PL"
+              "title": "TypingClub_Translation_Plugin"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sam & Luna/Story PL.md",
+                "file": "TypingClub_Translation_Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Story PL"
+              "title": "Backlinks for TypingClub_Translation_Plugin"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sam & Luna/Story PL.md",
+                "file": "TypingClub_Translation_Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Story PL"
+              "title": "Outgoing links from TypingClub_Translation_Plugin"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "16c60a9b7a4fbd4d",
   "lastOpenFiles": [
+    "Sam & Luna/Story PL.md",
     "Albert Goes to Symphony Hall/Story PL.md",
     "The Beast of Camp Buckley/Story PL.md",
     "Untitled.canvas",
@@ -171,7 +172,6 @@
     "Albert Goes to Symphony Hall/Story EN.md",
     "Camila in the Amazon/Story EN.md",
     "Camila in the Amazon/Story PL.md",
-    "Sam & Luna/Story PL.md",
     "The Beast of Camp Buckley/Story EN.md",
     "Sam & Luna/Story EN.md",
     "The Beast of Camp Buckley",
