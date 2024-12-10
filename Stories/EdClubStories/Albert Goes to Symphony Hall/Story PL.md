@@ -49,7 +49,7 @@ Muzyka ucichła, ale Albert odtwarzał ją w swojej głowie. Potężny, jasny d�
 # Rozdział 3
 ## 11. Specjalna niespodzianka
 
-Nauczyciel Alberta wstał i powiedział klasie, że muzycy przygotowali dla nich specjalną niespodziankę. Nie tylko odpowiedzą na pytania dotyczące instrumentów, ale uczniowie będą mogli ich dotknąć, a nawet na nich zagrać. Muzycy przywitali klasę, gdy ta wchodziła na scenę, a każde dziecko było bardziej podekscytowane od poprzedniego.
+Nauczycielka Alberta wstała i powiedziała klasie, że muzycy przygotowali dla nich specjalną niespodziankę. Nie tylko odpowiedzą na pytania dotyczące instrumentów, ale uczniowie będą mogli ich dotknąć, a nawet na nich zagrać. Muzycy przywitali klasę, gdy ta wchodziła na scenę, a każde dziecko było bardziej podekscytowane od poprzedniego.
 
 ## 12. Ciekawość
 
@@ -65,7 +65,7 @@ Pianistka, kobieta o imieniu Serena, z łagodnym głosem, delikatnie poprowadzi�
 
 ## 15. Niespodziewana propozycja
 
-Kiedy przyszła jego kolej, Albert dokładnie odwzorował ruchy Sereny. Serena była zachwycona tym, jak szybko się uczył. Zapytała Alberta, czy wcześniej grał. Powiedział, że nie, ale muzyka miała dla niego sens. Każda nuta miała własnego ducha, gotowego do uwolnienia, gdy naciskał klawisze. Zaimponowany, Serena powiedziała, że jeśli chciałby brać lekcje, to ona mogłaby go uczyć.
+Kiedy przyszła jego kolej, Albert dokładnie odwzorował ruchy Sereny. Serena była zachwycona tym, jak szybko się uczył. Zapytała Alberta, czy wcześniej grał. Powiedział, że nie, ale muzyka miała dla niego sens. Każda nuta miała własnego ducha, gotowego do uwolnienia, gdy naciskał klawisze. Zaimponowana, Serena powiedziała, że jeśli chciałby brać lekcje, to ona mogłaby go uczyć.
 
 ## 16. Chwila radości
 
@@ -78,9 +78,9 @@ W drodze powrotnej Albert myślał o tym, czego się dziś nauczył. Wszystkie i
 
 ## 18. Przyjazne rozmowy
 
-Jego przyjaciele rozmawiali o swoich ulubionych momentach dnia. Carl najbardziej polubił bębny. To nie było zaskoczeniem, pomyślał Albert z uśmiechem, Carl uwielbiał hałas. Zoe była zafascynowana fletem piccolo. Albert uważał, że mały, ostry dźwięk pasował do jego drobnej przyjaciółki.
+Jego przyjaciele rozmawiali o swoich ulubionych momentach dnia. Carl najbardziej polubił bębny. To nie było zaskoczeniem, pomyślał Albert z uśmiechem, Carl uwielbiał hałas. Zoe była zafascynowana fletem piccolo. Albert uważał, że mały flet i jego wysoki, ostry dźwięk dobrze pasował do jego drobnej przyjaciółki.
 
-## 19. Ulubiony Alberta
+## 19. Ulubieniec Alberta
 
 Przyjaciele zapytali Alberta, który instrument był jego ulubionym. Albert bębnił palcami o kolana, wspominając, jak klawisze fortepianu czuły się pod jego palcami. Powiedział, że to fortepian był jego ulubionym. Przyjaciele przytaknęli, niezaskoczeni. Zauważyli, jak dobrze Albert radził sobie z fortepianem. Zoe powiedziała, że nigdy nie widziała Alberta tak szczęśliwego, jak wtedy, gdy ożywiał fortepian.
 
@@ -90,9 +90,7 @@ Albert zastanawiał się, co powiedzą rodzice, gdy poprosi o lekcje. Wiedział,
 
 ## 21. Prezent od taty
 
-Kiedy Albert wrócił do domu, rodzice chcieli usłyszeć o wycieczce. Albert opowiedział im o pociągu, ulubionych instrumentach i propozycji Sereny, by uczyła go gry na fortepianie. Rodzice byli zachwyc
-
-eni tym pomysłem. Przypomnieli mu, że stary fortepian taty stoi na dole, więc Albert mógłby ćwiczyć w domu. Klawisze były już zużyte, ale fortepian miał głęboki, piękny dźwięk, powiedział tata. Albert był zachwycony.
+Kiedy Albert wrócił do domu, rodzice chcieli usłyszeć o wycieczce. Albert opowiedział im o pociągu, ulubionych instrumentach i propozycji Sereny, by uczyła go gry na fortepianie. Rodzice byli zachwyceni tym pomysłem. Przypomnieli mu, że stare pianino taty stoi na dole, więc Albert mógłby ćwiczyć w domu. Klawisze były już zużyte, ale pianino miało głęboki, piękny dźwięk, powiedział tata. Albert był zachwycony.
 
 ## 22. Dobranoc, Albercie!
 
@@ -160,11 +158,11 @@ Nauczycielka Alberta wstała i powiedziała klasie, że muzycy mają dla nich sp
 
 ## 12. Ciekawski
 
-Albert był najbardziej podekscytowany ze wszystkich. Słuchał historii każdego muzyka o tym, jak nauczył się grać. Zadawał pytanie za pytaniem, zafascynowany magią otaczającą każdą muzyczną opowieść. Słysząc ich mówić z taką pasją, Albert mógł zobaczyć, jak każdy instrument odgrywa swoją ważną rolę w orkiestrze. Wszyscy byli ważni, od eleganckiej harfy po dzwoniący trójkąt.
+Albert był najbardziej podekscytowany ze wszystkich. Słuchał historii każdego muzyka o tym, jak nauczył się grać. Zadawał pytanie za pytaniem, zafascynowany magią otaczającą każdą muzyczną opowieść. Słysząc ich jak opowiadają z pasją, Albert mógł zobaczyć, jak każdy instrument odgrywa swoją ważną rolę w orkiestrze. Wszyscy byli znaczący, od eleganckiej harfy po dzwoniący trójkąt.
 
 ## 13. Czas na grę
 
-Niektórzy muzycy pozwolili Albertowi potrzymać ich instrumenty i pokazali mu, jak się nimi gra. Albert szarpnął struny harfy, uderzył w bęben, a potem po raz pierwszy przycisnął swoje palce do chłodnych, gładkich klawiszy fortepianu. Gdy nacisnął, bogaty, mocny dźwięk fortepianu rozbrzmiał wokół niego, a twarz Alberta rozjaśniła się radością.
+Niektórzy muzycy pozwolili Albertowi potrzymać ich instrumenty i pokazali mu, jak się na nich gra. Albert szarpnął struny harfy, uderzył w bęben, a potem po raz pierwszy przycisnął swoje palce do chłodnych, gładkich klawiszy fortepianu. Gdy nacisnął, bogaty, mocny dźwięk fortepianu rozbrzmiał wokół niego, a twarz Alberta rozjaśniła się radością.
 
 ## 14. Ukryty talent
 
@@ -197,7 +195,7 @@ Albert zastanawiał się, co powiedzą jego rodzice, gdy poprosi ich o lekcje. W
 
 ## 21. Dar od taty
 
-Gdy Albert wrócił do domu, jego rodzice chcieli usłyszeć o wycieczce. Albert opowiedział im o pociągu, swoich ulubionych instrumentach i propozycji Sereny, aby uczyć go gry na fortepianie. Jego rodzice byli zachwyceni tym pomysłem. Przypomnieli mu, że ich stary fortepian jest na dole, więc mógł ćwiczyć w domu. Miał zużyte klawisze, ale także głęboki, piękny dźwięk, powiedział mu jego ojciec. Albert był zachwycony.
+Gdy Albert wrócił do domu, jego rodzice chcieli usłyszeć o wycieczce. Albert opowiedział im o pociągu, swoich ulubionych instrumentach i propozycji Sereny, aby uczyć go gry na fortepianie. Jego rodzice byli zachwyceni tym pomysłem. Przypomnieli mu, że ich stare pianino jest na dole, więc mógł ćwiczyć w domu. Miało zużyte klawisze, ale także głęboki, piękny dźwięk, powiedział mu jego ojciec. Albert był zachwycony.
 
 ## 21. Prezent od taty
 
@@ -215,7 +213,7 @@ Koniec opowiadania.
 #Alternatywny koniec by #Bielik-AI
 ## 23. Próba
 
-Następnego dnia Albert zszedł do piwnicy, aby wypróbować fortepian. Jego palce delikatnie przesunęły się po klawiszach, a dźwięki wypełniły pomieszczenie. Albert poczuł, jak muzyka przepływa przez niego, wypełniając go radością i nadzieją. Wiedział, że chce nauczyć się grać na fortepianie i podzielić się swoją muzyką ze światem.
+Następnego dnia Albert zszedł do piwnicy, aby wypróbować pianino Jego palce delikatnie przesunęły się po klawiszach, a dźwięki wypełniły pomieszczenie. Albert poczuł, jak muzyka przepływa przez niego, wypełniając go radością i nadzieją. Wiedział, że chce nauczyć się grać na fortepianie i podzielić się swoją muzyką ze światem.
 
 ## 24. Rozmowa z rodzicami
 
