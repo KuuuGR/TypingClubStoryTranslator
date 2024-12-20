@@ -2,7 +2,7 @@
 
 ##### Autor: Amy Maranville
 
-Camilla to młody, pełna pasji naukowiec, która bada amazońską dżunglę. Jej podróż przez rzekę obfituje w niespodziewane przygody.
+Camilla to młody, pełny pasji naukowiec, który bada amazońską dżunglę. Jej podróż przez rzekę obfituje w niespodziewane przygody.
 
 # Rozdział 1
 ## 1. Początek podróży
@@ -15,7 +15,7 @@ Camilla  ujęła  wiosło  ostrożnie  w  dłoniach.  Było  śliskie  o
 
 ## 3. Drzewa dookoła
 
-Camilla  rozpoznała  drzewa  kapokowe,  słynne  ze  swoich  długich  korzeni  i  wysokich  pni.  Wznosiły  się  wysoko  ponad  jej  małą  łódkę.  Camilla  kiedyś  przeczytała,  że  drzewa  kapokowe  mogą  rosnąć  ponad  4  metry  w  ciągu  roku.  To  długość  czterech  kijów  baseballowych!  Odchylając  głowę,  Camilla  wpatrywała  się  z  podziwem  w  wysokie  gałęzie.  Wzięła  głęboki  oddech,  chłonąc  bogaty  zapach  ziemi  i  życia.
+Camilla  rozpoznała  drzewa  kapokowe,  słynne  ze  swoich  długich  korzeni  i  wysokich  pni.  Wznosiły  się  wysoko  ponad  jej  małą  łódkę.  Camilla  kiedyś  przeczytała,  że  drzewa  kapokowe  mogą  rosnąć  ponad  4  metry  w  ciągu  roku.  To  długość  czterech  kijów  bejsbolowych!  Odchylając  głowę,  Camilla  wpatrywała  się  z  podziwem  w  wysokie  gałęzie.  Wzięła  głęboki  oddech,  chłonąc  bogaty  zapach  ziemi  i  życia.
 
 ## 4. Spadające kwiaty
 
@@ -34,11 +34,11 @@ Camilla  wyciągnęła  szyję,  próbując  zobaczyć  małpy  jeszcze  
 
 ## 7. Małpia przygoda
 
-Camilla  zerwała  się  na  równe  nogi,  wydając  okrzyk  protestu.  Jej  but  zaplątał  się  w  pnącza,  przez  co  upadła  do  przodu,  strasząc  złodziejaszka.  Kapucynka  uciekła,  wspinając  się  w  połowie  na  pień  drzewa.  Camilla  powoli  podniosła  ręce,  starając  się  jej  bardziej  nie  wystraszyć.  Bez  kompasu  mogłaby  mieć  poważne  kłopoty.  Ostrożnie  sięgnęła  do  kieszeni,  wyjęła  woreczek  z  mieszanką  orzechów  i  owoców,  i  rzuciła  małpce  odrobinę  jedzenia.
+Camilla  zerwała  się  na  równe  nogi,  wydając  okrzyk  protestu.  Jej  but  zaplątał  się  w  pnącza,  przez  co  upadła  do  przodu,  strasząc  złodziejaszka.  Kapucynka  uciekła,  wspinając  się  po pniu  drzewa do połowy jego wysokości.  Camilla  powoli  podniosła  ręce,  starając  się  jej  bardziej  nie  wystraszyć.  Bez  kompasu  mogłaby  mieć  poważne  kłopoty.  Ostrożnie  sięgnęła  do  kieszeni,  wyjęła  woreczek  z  mieszanką  orzechów  i  owoców,  i  rzuciła  małpce  odrobinę  jedzenia.
 
 ## 8. Uczciwy handel
 
-Kapucynka  zbliżyła  się  do  Camilli.  Początkowo  niepewnie,  ale  potem  z  większym  entuzjazmem  zebrała  owoce  i  orzechy.  Spojrzała  na  nią  podejrzliwie,  a  następnie  wydała  odgłos,  przywołując  grupę  innych  małpek,  które  z  zadowoleniem  zaczęły  jeść.  Kapucynka  szybko  zapomniała  o  kompasie,  który  Camilla  odzyskała.  Przerwa  się  skończyła!  Rozplątała  łódkę  i  znów  wyruszyła  w  rejs.
+Kapucynka  zbliżyła  się  do  Camilli.  Początkowo  niepewnie,  ale  potem  z  większym  entuzjazmem  zebrała  owoce  i  orzechy.  Spojrzała  na  nią  podejrzliwie,  a  następnie  wydała  odgłos,  przywołując  grupę  innych  małpek,  które  z  zadowoleniem  zaczęły  jeść.  Kapucynka  szybko  zapomniała  o  kompasie,  który  Camilla  odzyskała.  Przerwa  się  skończyła!  Camilla rozplątała  łódkę  i  znów  wyruszyła  w  rejs.
 
 ## 9. Pojawia się anakonda
 
@@ -46,14 +46,14 @@ Zaledwie  kilka  minut  po  powrocie  do  łódki,  Camilla  kątem  ok
 
 ## 10. Gigantyczne lilie wodne
 
-Camilla  odetchnęła  z  ulgą.  Anakondy  rzadko  atakują  ludzi,  ale  widok  tak  dużego  stworzenia  był  przerażający.  Włożyła  wiosło  do  wody  i  popchnęła  łódkę  naprzód.  Kiedy  zakręciła  za  róg,  znalazła  się  pośród  morza  lilii  wodnych.  _Victoria amazonica_ –  przypomniała  sobie.  Gigantyczne  lilie  wodne.  Mogą  osiągać  średnicę  prawie  trzech  metrów.  Wystarczająco  duże,  by  ktoś  mógł  się  na  nich  położyć.
+Camilla  odetchnęła  z  ulgą.  Anakondy  rzadko  atakują  ludzi,  ale  widok  tak  dużego  stworzenia  był  przerażający.  Włożyła  wiosło  do  wody  i  popchnęła  łódkę  naprzód.  Kiedy  zakręciła  za  róg,  znalazła  się  pośród  morza  lilii  wodnych. Victoria amazonica –  przypomniała  sobie.  Gigantyczne  lilie  wodne.  Mogą  osiągać  średnicę  prawie  trzech  metrów.  Wystarczająco  duże,  by  ktoś  mógł  się  na  nich  położyć.
 
 ---
 
 # Rozdział 3
 ## 11. Pożar
 
-Łódka  Camilli  minęła  kolejny  zakręt,  a  drzewa  wzdłuż  brzegu  ustąpiły  miejsca.  Nowy  zapach  uderzył  jej  w  nos  –  spalonej  ziemi  i  popiołu.  W  tej  części  dżungli  był  pożar.  Tam,  gdzie  wcześniej  rosły  drzewa,  teraz  sterczały  tylko  poszarpane  pnie.  Zwierzęta  przeniosły  się  w  inne  miejsce,  więc  panowała  tu  niesamowita  cisza.
+Łódka  Camilli  minęła  kolejny  zakręt,  a  drzewa  wzdłuż  brzegu  ustąpiły  miejsca.  Nowy  zapach  uderzył  jej  w  nos  – zapach spalonej  ziemi  i  popiołu.  W  tej  części  dżungli  był  pożar.  Tam,  gdzie  wcześniej  rosły  drzewa,  teraz  sterczały  tylko  poszarpane  pnie.  Zwierzęta  przeniosły  się  w  inne  miejsce,  więc  panowała  tu  niesamowita  cisza.
 
 ## 12. Młode rośliny
 
@@ -69,7 +69,7 @@ Z  liści  wyjrzał  jasny,  futrzasty  pysk.  To  była  kapibara,  na
 
 ## 15. Latający przyjaciele
 
-Camilla  musiała  dotrzeć  do  obozu  przed  zmrokiem.  Wiosłując,  przesunęła  łódkę  z  powrotem  na  rzekę.  Nagle  usłyszała  trzepotanie  skrzydeł  nad  głową.  Spojrzała  w  górę  i  zobaczyła  żółtobrzuchą  ptaszynę  z  zakrzywionym  dziobem.  Przypomniała  sobie  zdjęcia  i  rozpoznała  tukan  wielkodzioby.  Ptak  wydał  charakterystyczny  dźwięk,  na  który  odpowiedział  inny  tukan  w  oddali.
+Camilla  musiała  dotrzeć  do  obozu  przed  zmrokiem.  Wiosłując,  przesunęła  łódkę  z  powrotem  na  rzekę.  Nagle  usłyszała  trzepotanie  skrzydeł  nad  głową.  Spojrzała  w  górę  i  zobaczyła  żółtobrzuchą  ptaszynę  z  zakrzywionym  dziobem.  Przypomniała  sobie  zdjęcia  i  rozpoznała ptaka. To był tukan  wielkodzioby.  Ptak  wydał  charakterystyczny  dźwięk,  na  który  odpowiedział  inny  tukan  w  oddali.
 
 ## 16. Przyjaźń w dżungli
 
@@ -91,11 +91,11 @@ Nagle  łódka  Camilli  wpłynęła  w  pajęczynę.  Camilla  poczuła�
 
 ## 20. Cel podróży
 
-W  oddali  na  wodzie  mignęło  światło.  Serce  Camilli  zabiło  mocniej.  Była  prawie  na  miejscu.  I  dobrze,  bo  słońce  zniknęło  już  za  drzewami,  a  dzień  chylił  się  ku  końcowi.  Przyspieszyła  wiosłowanie,  podekscytowana  myślą  o  dotarciu  do  obozu.  Ktoś  z  brzegu  zawołał  powitanie,  a  Camilla  odpowiedziała.  Zbliżając  się,  zobaczyła  naukowców  stojących  na  brzegu,  machających  do  niej.  Dotarła!
+W  oddali  na  wodzie  mignęło  światło.  Serce  Camilli  zabiło  mocniej.  Była  prawie  na  miejscu.  I  dobrze,  bo  słońce  zniknęło  już  za  drzewami,  a  dzień  chylił  się  ku  końcowi.  Przyspieszyła  wiosłowanie,  podekscytowana  myślą  o  dotarciu  do  obozu.  Ktoś  z  brzegu  zawołał na powitanie,  a  Camilla  odpowiedziała.  Zbliżając  się,  zobaczyła  naukowców  stojących  na  brzegu,  machających  do  niej.  Dotarła!
 
 ## 21. Zwiedzanie obozu
 
-Camilla  wysiadła  z  łódki  i  stanęła  wśród  tłumu  twarzy.  Po  tak  długim  czasie  spędzonym  samotnie,  było  to  nieco  przytłaczające  –  usłyszeć  tyle  głosów  i  zobaczyć  tylu  ludzi.  Szefową  obozu  była  brazylijska  naukowczyni,  doktor  Santos.  Uścisnęła  dłoń  Camilli,  a  potem  oprowadziła  ją  po  obozie.  W  centrum  znajdowało  się  małe  ognisko  otoczone  krzesłami.  W  pobliskiej  polanie  rozstawiono  namioty.  Doktor  Santos  przyniosła  Camilli  kubek  zupy.
+Camilla  wysiadła  z  łódki  i  stanęła  wśród  tłumu  twarzy.  Po  tak  długim  czasie  spędzonym  samotnie,  było  to  nieco  przytłaczające  –  usłyszeć  tyle  głosów  i  zobaczyć  tylu  ludzi.  Szefową  obozu  była  brazylijska  naukowiec  doktor  Santos.  Uścisnęła  dłoń  Camilli,  a  potem  oprowadziła  ją  po  obozie.  W  centrum  znajdowało  się  małe  ognisko  otoczone  krzesłami.  W  pobliskiej  polanie  rozstawiono  namioty.  Doktor  Santos  przyniosła  Camilli  miseczkę  zupy.
 
 ## 22. Dobranoc, Camillo!
 
@@ -205,3 +205,103 @@ Camilla wyszła z łódki i weszła w morze twarzy. Po tak długim czasie samotn
 ## 22. Dobranoc, Camilla!
 
 Camilla usiadła przy ognisku. Małpy szczebiotały cicho w oddali, podczas gdy Camilla opowiadała innym o wszystkim, co zobaczyła w drodze do obozu. Po jedzeniu Camilla wróciła do swojego namiotu i położyła się, słuchając dźwięków dżungli wokół niej. Oddychała głęboko, jej ciało zmęczone długim dniem, ale umysł pełen idei i ekscytacji z tego, czego się nauczy następnego dnia.
+
+
+----
+
+# -- Dodatek nieautoryzowany --
+
+
+# Rozdział 5
+
+## 23. Nocne obserwacje
+
+Po długim dniu Camilla zmęczona udała się na spoczynek, ale dżungla w nocy miała swoje własne plany. Około północy obudził ją dziwny hałas. Wstała i wyjrzała z namiotu, widząc złote oczy odbijające się w światłach obozu. Dr Santos uspokoiła Camillę, wyjaśniając, że to tylko jaguar przyszedł zwabić zdobycz. "Jaguary rzadko atakują ludzi," powiedziała, choć sama też była czujna. Camilla sięgnęła po notatnik, aby zapisać swoje obserwacje z tej niespodziewanej wizyty nocnego gościa.
+
+## 24. Tajemnicze dźwięki
+
+Następnego poranka naukowcy w obozie opowiadali o tajemniczych dźwiękach, jakie słyszeli w nocy. Camilla słyszała głębokie buczenie, przypominające odgłos odległych bębnów. Dr Santos zasugerowała, że mogły to być odgłosy harpii wielkiej, jednego z największych ptaków drapieżnych na świecie. Camilla postanowiła sprawdzić to i wzięła ze sobą lornetkę, aby wyruszyć na poszukiwanie ptasiego głosu.
+
+## 25. Spotkanie z harpią
+
+Wkrótce Camilla natknęła się na gniazdo harpii wysoko na jednym z drzew kapokowych. Z daleka widziała wielkie szpony ptaka chwytającego leniwca. Była zafascynowana siłą tego stworzenia. Użyła swojej kamery, aby uchwycić chwilę, choć wiedziała, że zbliżanie się do gniazda byłoby niebezpieczne. Harpia złowrogo spojrzała w jej stronę, zanim odleciała w głąb lasu.
+
+## 26. Opówiedziana legenda
+
+Po powrocie do obozu Camilla podzieliła się swoimi odkryciami z resztą zespołu. Jedna z lokalnych przewodniczek, María, opowiedziała im o lokalnej legendzie związanej z harpią. Według wierzeń plemiennych harpia strzeże dusz zmarłych przodków i ostrzega przed nadchodzącymi niebezpieczeństwami. Historia ta zainspirowała Camillę do przemyśleń o współzależności natury i ludzi.
+
+## 27. Pułapka
+
+Podczas jednej z wypraw badawczych Camilla i jej zespół natknęli się na ślady czegoś dużego na bagnistym brzegu rzeki. Wyglądały na odciski wielkiego kota. Rozstawili kamerę pułapkę, aby uchwycić zdjęcie tajemniczego zwierzęcia. Camilla miała nadzieję, że uda się sfotografować jaguara w jego naturalnym środowisku.
+
+## 28. Niespodzianka na filmie
+
+Wieczorem zespół sprawdził kamerę. Ku ich zdziwieniu, zamiast jaguara, uchwycili zdjęcia tapira. "To rzadki widok!" ekscytowała się Dr Santos. Chociaż nie był to oczekiwany drapieżnik, Camilla była zadowolona z tego odkrycia. Był to ważny element dokumentowania bioróżnorodności Amazonii.
+
+---
+
+# Rozdział 6
+
+## 29. Burza
+
+Następnego dnia Camilla zauważyła, że niebo zaczyna się chmurzyć. Powietrze było wilgotne i ciężkie. Wkrótce zerwał się wiatr, a tropikalna burza rozszalała się nad obozem. Camilla i reszta zespołu musieli szybko zabezpieczyć swoje namioty i sprzęt. Deszcz lał strumieniami, ale dla Camilli był to kolejny dowód na siłę przyrody.
+
+## 30. Po burzy
+
+Gdy burza ustała, obozowicze wyszli, aby ocenić szkody. Camilla z przerażeniem zauważyła, że jeden z namiotów został porwany przez wiatr i wylądował na pobliskim drzewie. Lokalni przewodnicy szybko zorganizowali akcję ratunkową. Dżungla po burzy była przepełniona świeżym zapachem mokrej ziemi i roślin, a słońce przebijało się przez gęste listowie.
+
+## 31. Tajemniczy artefakt
+
+Podczas sprzątania zniszczeń jeden z członków zespołu znalazł na brzegu rzeki dziwny kamień pokryty rytami. Wyglądał jak fragment jakiegoś starożytnego artefaktu. Dr Santos zasugerowała, że może to być pozostałość po dawnych plemionach zamieszkujących te tereny. Camilla poczuła, że ten fragment historii może rzucić nowe światło na dawne kultury Amazonii.
+
+## 32. Włócznia
+
+W trakcie dalszych badań terenowych zespół odkrył kolejne artefakty, w tym drewnianą włócznię ozdobioną wzorami. María wyjaśniła, że takie włócznie były używane podczas rytuałów. Camilla postanowiła szczegółowo udokumentować znalezisko i zabrać je do analizy w obozie. Wiedziała, że odkrycia te mogą przyciągnąć większą uwagę naukowców.
+
+## 33. Powrót jaguara
+
+Jednej z ostatnich nocy Camilla znowu usłyszała hałas w pobliżu obozu. Wyszła z namiotu, uzbrojona w latarkę. Na granicy światła dostrzegła znajome złote oczy. Tym razem jaguar był bliżej. Obserwował ich w ciszy, zanim odszedł w głąb ciemności. Camilla czuła jednocześnie strach i podziw. Spotkanie to było niezapomniane.
+
+## 34. Pożegnanie z dżunglą
+
+Nadszedł dzień wyjazdu. Camilla spojrzała na dżunglę po raz ostatni. Przeżyła w niej niezliczone przygody i dowiedziała się więcej, niż mogłaby sobie wyobrazić. Obiecała sobie, że wróci, by kontynuować swoje badania. Jej podróż rzeką Amazonki była zakończona, ale przygoda z nauką dopiero się rozpoczynała.
+
+# Rozdział 7
+
+## 35. Powrót do szkoły
+
+Po powrocie z Amazonii Camilla została zaproszona do lokalnej szkoły, aby podzielić się swoimi doświadczeniami. Uczniowie zebrali się w dużej sali, gdzie Camilla zaczęła swoją prezentację od zdjęć dżungli i opowieści o niesamowitych stworzeniach, które spotkała. Każde zdjęcie wywoływało westchnienia podziwu i mnóstwo pytań.
+
+## 36. Pierwsze pytania
+
+"Czy naprawdę widziałaś jaguara?" zapytała jedna z uczennic. Camilla z uśmiechem opowiedziała o swoim spotkaniu z wielkim kotem, podkreślając, jak ważne jest szanowanie ich przestrzeni. "A czy harpia była straszna?" dodał inny uczeń. Camilla wyjaśniła, że harpia to majestatyczny ptak, ale należy zachować ostrożność podczas obserwacji.
+
+## 37. Zafascynowane dzieci
+
+Uczniowie byli zachwyceni opowieściami o tarantulach, gigantycznych liliach wodnych i kapibaraach. "Czy tarantula mogła cię ugryźć?" zapytał chłopiec z pierwszego rzędu. Camilla uspokoiła go, wyjaśniając, że większość pająków nie jest niebezpieczna dla ludzi, jeśli się ich nie drażni.
+
+## 38. Lekcja o bioróżnorodności
+
+Camilla wykorzystała okazję, aby opowiedzieć dzieciom o znaczeniu bioróżnorodności i ochrony środowiska. Zademonstrowała, jak każde zwierzę, od najmniejszego owada po wielkiego jaguara, odgrywa kluczową rolę w ekosystemie. Dzieci słuchały z zaciekawieniem, a nauczyciele robili notatki, planując przyszłe lekcje na ten temat.
+
+## 39. Zaproszenie na przyszłość
+
+Pod koniec spotkania dyrektor szkoły podziękował Camilli za inspirującą prelekcję i zaprosił ją na kolejne spotkania w przyszłości. "Może kiedyś któreś z tych dzieci stanie się takim naukowcem jak ty," powiedział z uśmiechem. Camilla poczuła dumę i obiecała wrócić, by kontynuować swoją misję edukacyjną.
+
+## 40. Nowa inspiracja
+
+Wracając do domu, Camilla czuła, że jej praca ma sens nie tylko w laboratorium czy na wyprawach, ale także w inspiracji młodych ludzi. Postanowiła, że następnym razem przywiezie do szkoły więcej zdjęć i może nawet próbki roślin czy artefaktów, aby jeszcze bardziej przybliżyć dzieciom magię Amazonii.
+
+# Rozdział 8
+
+## 41. Międzynarodowe wyróżnienie
+
+Kilka tygodni później Camilla otrzymała zaskakującą wiadomość. Jej badania nad bioróżnorodnością Amazonii zostały docenione przez prestiżowy międzynarodowy instytut naukowy. Została zaproszona na roczne stypendium badawcze do jednego z najlepszych ośrodków naukowych na świecie. To była szansa, o jakiej marzyła od zawsze.
+
+## 42. Recital w teatrze
+
+Przed wyjazdem Camilla została zaproszona do udziału w specjalnym recitalu w miejscowym teatrze. Jej badania miały zostać zaprezentowane w wyjątkowy sposób - studenci teatralni przygotowali choreografię inspirowaną amazońską dżunglą, a Camilla dołączyła do orkiestry, która odpowiadała za stronę muzyczną. Gdy muzyka unosiła się w powietrzu, a tancerze poruszali się w rytmie bębnów i fletów, Camilla czuła, że jej praca zyskuje nowy, artystyczny wymiar.
+
+## 43. Pożegnanie i nowe początki
+
+W dniu wyjazdu cała społeczność lokalna zebrała się, aby pożegnać Camillę. Nauczyciele, uczniowie, a nawet przypadkowi mieszkańcy przyszli, aby życzyć jej powodzenia. Camilla, wzruszona, obiecała, że wróci z nowymi odkryciami i opowieściami, które będą inspirować kolejne pokolenia. Wsiadając do samolotu, wiedziała, że jej misja naukowa dopiero się rozpoczyna.

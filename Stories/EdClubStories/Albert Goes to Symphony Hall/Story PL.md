@@ -229,3 +229,52 @@ Po kilku miesiącach nauki Albert zagrał swój pierwszy koncert dla rodziny i p
 
 
 Koniec opowiadania.
+
+
+# -- Dodatek nieautoryzowany --
+
+# Rozdział 5
+
+## 23. Pierwsza lekcja
+
+Pierwsza lekcja fortepianu nadeszła szybciej niż Albert się spodziewał. Serena przybyła do jego domu z nutami i świecącymi oczami, gotowa przekazać swoją wiedzę. Albert usiadł przy pianinie, czując, jak powietrze wibruje z emocji. Nauczycielka zachęcała go, by nie myślał o nutach jako o zadaniu, ale jako o sposobie wyrażania uczuć. Ich pierwsza wspólna melodia płynęła łagodnie, a Albert szybko pojął rytm i harmonię.
+
+## 24. Odkrywanie muzyki
+
+Z każdą kolejną lekcją Albert zagłębiał się coraz bardziej w świat muzyki. Serena pokazywała mu różne style muzyczne, od klasycznych sonat Beethovena po energetyczne jazzowe improwizacje. Albert uczył się nie tylko grać, ale i słuchać – rozpoznawać uczucia i historie, które muzyka może opowiadać. Jego umiejętność interpretacji rosła, a z nim rozwijało się jego zrozumienie muzyki jako języka emocji.
+
+## 25. Koncert w szkole
+
+Pewnego dnia dyrektor szkoły zaproponował Albertowi, by dał krótki koncert podczas szkolnej uroczystości. Pomimo początkowego zdenerwowania, zdecydował się przyjąć to wyzwanie. Przygotowania trwały tygodnie, a Serena pomagała mu wybrać utwory, które najlepiej wyrażały jego osobowość i umiejętności. Kiedy nadszedł wielki dzień, Albert usiadł przed klawiaturą, oddychając głęboko. Nuty, które popłynęły z jego palców, zachwyciły zarówno uczniów, jak i nauczycieli.
+
+# Rozdział 6
+
+## 26. Wizyta w konserwatorium
+
+Serena, widząc potencjał Alberta, zorganizowała wycieczkę do lokalnego konserwatorium muzycznego. Tam Albert mógł zobaczyć, jak wygląda życie profesjonalnych muzyków. Spotkał studentów i nauczycieli, którzy podzielili się z nim swoimi doświadczeniami i radami. Zaimponowały mu sale pełne skoncentrowanych muzyków, a dźwięki orkiestr i solistów przemawiały do jego serca.
+
+## 27. Spotkanie z kompozytorem
+
+Podczas wizyty w konserwatorium Albert miał szczęście spotkać znanego kompozytora, który był pod wrażeniem jego zainteresowania muzyką. Rozmawiali o procesie tworzenia muzyki, a kompozytor podzielił się z nim kilkoma sekretami swojej pracy. To spotkanie zainspirowało Alberta do eksperymentowania z własnymi kompozycjami.
+
+## 28. Inspiracja i twórczość
+
+Zachęcony przez swoje doświadczenia, Albert zaczął eksperymentować z komponowaniem własnych utworów. Serena pomagała mu zrozumieć strukturę i teorię muzyki, co pozwoliło mu na tworzenie coraz bardziej złożonych i emocjonalnie ładownych dzieł. Jego pierwsza własna kompozycja, prosty ale wzruszający utwór, został pozytywnie przyjęty przez rodzinę i przyjaciół.
+
+# Rozdział 7
+
+## 29. Muzyczne marzenia
+
+Z czasem Albert zaczął marzyć o dalszej edukacji muzycznej i nawet o karierze koncertowej. Jego rodzice wspierali te marzenia, widząc, jak muzyka przemieniała ich syna i dawała mu radość i cel.
+
+## 30. Przygotowania do przesłuchania
+
+Kiedy Albert zdecydował się aplikować do konserwatorium, spędził miesiące na intensywnych przygotowaniach. Serena była z nim każdego dnia, pomagając doskonalić jego umiejętności i przygotować repertuar na przesłuchanie.
+
+## 31. Dzień przesłuchania
+
+Nadeszły przesłuchania. Albert, choć zdenerwowany, czuł się gotowy. Wszedł do sali przesłuchań, uśmiechnął się do jury i zaczął grać. Z każdą nutą, którą wydobywał, jego pewność siebie rosła. Jego występ był wyrazem wszystkiego, czego się nauczył i wszystkich emocji, które chciał przekazać przez muzykę.
+
+## 32. Czekanie na wyniki
+
+Po przesłuchaniu nastał czas oczekiwania. Albert czuł się spokojny, wiedząc, że zrobił wszystko, co w jego mocy. Niezależnie od wyniku, muzyka już na zawsze miała pozostać ważną częścią jego życia. Gdy nadeszła wiadomość o przyjęciu, radość Alberta i jego rodziny była nie do opisania. To był początek nowego, ekscytującego rozdziału w jego muzycznej podróży.

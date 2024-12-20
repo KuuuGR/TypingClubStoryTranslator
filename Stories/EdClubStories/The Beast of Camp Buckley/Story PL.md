@@ -161,3 +161,48 @@ Następnego ranka trójka przyjaciół spotkała się w stołówce. Wymienili sp
 ## 16. Więcej przygód czeka
 
 Joni, Maria i Samir mieli mnóstwo innych przygód tego lata, choć nie wpakowali się w takie kłopoty jak drugiej nocy. Przynajmniej nie takie duże. W drodze powrotnej autobusem zgodzili się pozostać przyjaciółmi przez cały rok szkolny. Nagle Maria wpadła na pomysł. A co, gdyby założyli agencję detektywistyczną? Joni i Samir byli zachwyceni. Zagadka Bestii Buckley została rozwiązana, ale było wiele innych tajemnic do rozwikłania!
+
+
+# -- Dodatek nieautoryzowany --
+
+# Rozdział 4
+
+## 17. Plan na przyszłość
+
+Po porannej rozmowie nad śniadaniem, trio zaczęło snuć plany na przyszłą agencję detektywistyczną. Zaczęli od nazwy – „Tajemnicze Trio”, co miało odzwierciedlać ich zamiłowanie do rozwiązywania zagadek. Postanowili, że każde z nich przyniesie coś unikalnego: Joni swoją odwagę i umiejętność szybkiego reagowania, Maria swoją obserwację i umiejętności komunikacyjne, a Samir swoje analityczne myślenie i logiczne wnioskowanie.
+
+## 18. Zarys pierwszego śledztwa
+
+Wkrótce trio otrzymało swoją pierwszą zagadkę do rozwiązania. W obozie zaczęły znikać przekąski i inne drobne przedmioty. Obozowicze byli zaniepokojeni, a dyrektorka Pani G poprosiła Joni, Marię i Samira o pomoc w wyjaśnieniu tej sprawy. Dzieci szybko przystąpiły do działania, przeprowadzając wywiady z innymi obozowiczami i zbierając ślady, które mogłyby wskazywać na złodzieja.
+
+## 19. Rozwiązanie zagadki
+
+Po kilku dniach detektywistycznego śledztwa, Tajemnicze Trio odkryło, że za kradzieżami stoją wiewiórki, które zapasy przechowywały w swoich kryjówkach w lesie. Współpraca, którą wykazały dzieci, zaimponowała nie tylko Pani G, ale i wszystkim obozowiczom. Joni, Maria i Samir zostali uznani za bohaterów dnia, a ich reputacja jako młodych detektywów wzrosła.
+
+# Rozdział 5
+
+## 20. Ostatni dzień obozu
+
+Ostatni dzień obozu był pełen emocji. Wszyscy obozowicze przygotowywali się do pożegnań. Tajemnicze Trio spędziło czas na wspólnym planowaniu tego, jak będą utrzymywać kontakt i kontynuować swoje detektywistyczne pasje po powrocie do domu. Zdecydowali, że będą regularnie spotykać się online, aby omawiać nowe sprawy i wymieniać się pomysłami.
+
+## 21. Pożegnanie i obietnice
+
+Podczas ceremonii pożegnalnej Joni, Maria i Samir obiecali sobie, że ich przyjaźń będzie trwała wiecznie, niezależnie od odległości. Pani G wręczyła im specjalne certyfikaty za ich wkład w życie obozowe i pomoc w rozwiązaniu tajemnicy kradzieży. Wszyscy obozowicze bili brawo, a trio czuło się jak prawdziwi bohaterowie.
+
+## 22. Plan na przyszłość
+
+Podczas podróży powrotnej autobusem, dzieci snuły plany na przyszłość. Maria zaproponowała, że następnego lata mogliby spotkać się w innym obozie, aby kontynuować swoje detektywistyczne przygody. Joni i Samir entuzjastycznie przyjęli pomysł. Wiedzieli, że przed nimi jeszcze wiele tajemnic do odkrycia i nie mogli się doczekać kolejnych wyzwań.
+
+# Rozdział 6
+
+## 23. Nowy rok szkolny
+
+Rok szkolny rozpoczął się pełen wyzwań, ale także nowych możliwości. Joni, Maria i Samir utrzymywali bliski kontakt, regularnie spotykając się w internecie, aby omawiać swoje codzienne przygody i planować przyszłe projekty. W każdym ze swoich środowisk zdobywali nowe umiejętności, które później wykorzystywali w swoich detektywistycznych działaniach.
+
+## 24. Kolejne śledztwo
+
+Pewnego dnia w szkole Joni doszło do zaginięcia cennego sprzętu sportowego. Dzięki zdobytej w obozie reputacji, Joni została poproszona o pomoc w rozwikłaniu tej sprawy. Razem z Marią i Samirem, którzy doradzali jej zdalnie, zaczęła badać sprawę, łącząc wskazówki i analizując dostępne dane.
+
+## 25. Sukces i nowe możliwości
+
+Ostatecznie udało się odzyskać sprzęt i znaleźć winnych. Sukces ten otworzył przed Tajemniczym Trio nowe możliwości. Zostali zaproszeni do stworzenia szkolnego klubu detektywistycznego, co umożliwiło im nie tylko kontynuowanie swojej pasji, ale też dzielenie się nią z innymi uczniami. Joni, Maria i Samir byli podekscytowani możliwościami, jakie przed nimi stanęły.
