@@ -1,4 +1,4 @@
-123ubuntuity12# Sam i Luna
+# Sam i Luna
 
 ##### Autor: Lynn Amatucci
 

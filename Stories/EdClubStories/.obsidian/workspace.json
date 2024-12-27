@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Beast of Camp Buckley/Story PL.md",
+                "file": "TypingClub_Translation_Plugin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story PL"
+              "title": "TypingClub_Translation_Plugin"
             }
           }
         ]
@@ -162,18 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16c60a9b7a4fbd4d",
+  "active": "ccf4c4d56ccd3f0b",
   "lastOpenFiles": [
-    "TypingClub_Translation_Plugin.md",
-    "Sam & Luna/Story PL.md",
-    "Albert Goes to Symphony Hall/Story PL.md",
-    "Camila in the Amazon/Story PL.md",
-    "Sam & Luna/Story EN.md",
     "The Beast of Camp Buckley/Story PL.md",
+    "Sam & Luna/Story PL.md",
+    "Camila in the Amazon/Story PL.md",
+    "Albert Goes to Symphony Hall/Story PL.md",
     "Untitled.canvas",
+    "The Beast of Camp Buckley/Story EN.md",
+    "TypingClub_Translation_Plugin.md",
+    "Sam & Luna/Story EN.md",
     "Albert Goes to Symphony Hall/Story EN.md",
     "Camila in the Amazon/Story EN.md",
-    "The Beast of Camp Buckley/Story EN.md",
     "The Beast of Camp Buckley",
     "Camila in the Amazon",
     "Albert Goes to Symphony Hall",

@@ -45,7 +45,7 @@ Po kolacji wszyscy zebrali się przy ognisku. Dyrektorka Pani G przyciągnęła 
 # Rozdział 3
 ## 9. Opracowanie planu
 
-Po opowieści obozowicze piekli pianki. Trio było zamyślone. Wtedy Samir zaproponował, żeby stworzyli linię telefoniczną między domkami. W ten sposób mogliby dzwonić do siebie, gdyby znów usłyszeli te dźwięki. – Jak? – zapytała Joni. – Za pomocą dwóch papierowych kubków i sznurka! – wyjaśnił. W ziemi narysował ich domki i linię między oknami. Dźwięk miałby przemieszczać się po sznurku między kubkami.
+Po opowieści obozowicze piekli pianki. Trio było zamyślone. Wtedy Samir zaproponował, żeby stworzyli linię telefoniczną między domkami. W ten sposób mogliby dzwonić do siebie, gdyby znów usłyszeli te dźwięki. – Jak? – zapytała Joni. – Za pomocą dwóch papierowych kubków i sznurka! – wyjaśnił. Na ziemi narysował ich domki i linię między oknami. Dźwięk miałby przemieszczać się po sznurku między kubkami.
 
 ## 10. Powrót huku
 
@@ -64,7 +64,7 @@ Joni przeszukiwała teren latarką, jej serce waliło jak oszalałe. Prawie krzy
 # Rozdział 4
 ## 13. Bestia się ujawnia
 
-To była Pani G! Siedziała na ziemi, a pod nią leżała zerwana linia telefoniczna. Kiedy inni obozowicze zaczęli zaglądać przez okna, Pani G zapytała: – Dlaczego między domkami jest rozwieszony sznurek? Właśnie się o niego potknęłam! Obok niej leżały kijki trekkingowe – źródło tajemniczych dźwięków. Zawstydzone Joni, Maria i Samir poszli za nią do głównego biura.
+To była Pani G! Siedziała na ziemi, a pod nią leżała zerwana linia telefoniczna. Kiedy inni obozowicze zaczęli zaglądać przez okna, Pani G zapytała: – Dlaczego między domkami jest rozwieszony sznurek? Właśnie się o niego potknęłam! Obok niej leżały kijki trekkingowe – źródło tajemniczych dźwięków. Zawstydzeni: Joni, Maria i Samir poszli za nią do głównego biura.
 
 ## 14. Trio w tarapatach
 
