@@ -177,7 +177,7 @@ Wkrótce trio otrzymało swoją pierwszą zagadkę do rozwiązania. W obozie zac
 
 ## 19. Rozwiązanie zagadki
 
-Po kilku dniach detektywistycznego śledztwa, Tajemnicze Trio odkryło, że za kradzieżami stoją wiewiórki, które zapasy przechowywały w swoich kryjówkach w lesie. Współpraca, którą wykazały dzieci, zaimponowała nie tylko Pani G, ale i wszystkim obozowiczom. Joni, Maria i Samir zostali uznani za bohaterów dnia, a ich reputacja jako młodych detektywów wzrosła.
+Po kilku dniach detektywistycznego śledztwa, Tajemnicze Trio odkryło, że za kradzieżami stoją szare wiewiórki, które zapasy przechowywały w swoich kryjówkach w lesie. Współpraca, którą wykazały dzieci, zaimponowała nie tylko Pani G, ale i wszystkim obozowiczom. Joni, Maria i Samir zostali uznani za bohaterów dnia, a ich reputacja jako młodych detektywów wzrosła.
 
 # Rozdział 5
 
@@ -197,7 +197,7 @@ Podczas podróży powrotnej autobusem, dzieci snuły plany na przyszłość. Mar
 
 ## 23. Nowy rok szkolny
 
-Rok szkolny rozpoczął się pełen wyzwań, ale także nowych możliwości. Joni, Maria i Samir utrzymywali bliski kontakt, regularnie spotykając się w internecie, aby omawiać swoje codzienne przygody i planować przyszłe projekty. W każdym ze swoich środowisk zdobywali nowe umiejętności, które później wykorzystywali w swoich detektywistycznych działaniach.
+Rok szkolny rozpoczął się pełen wyzwań, ale także nowych możliwości. Joni, Maria i Samir utrzymywali bliski kontakt, regularnie spotykając się w Internecie, aby omawiać swoje codzienne przygody i planować przyszłe projekty. W każdym ze swoich środowisk zdobywali nowe umiejętności, które później wykorzystywali w swoich detektywistycznych działaniach.
 
 ## 24. Kolejne śledztwo
 

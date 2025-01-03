@@ -237,15 +237,15 @@ Koniec opowiadania.
 
 ## 23. Pierwsza lekcja
 
-Pierwsza lekcja fortepianu nadeszła szybciej niż Albert się spodziewał. Serena przybyła do jego domu z nutami i świecącymi oczami, gotowa przekazać swoją wiedzę. Albert usiadł przy pianinie, czując, jak powietrze wibruje z emocji. Nauczycielka zachęcała go, by nie myślał o nutach jako o zadaniu, ale jako o sposobie wyrażania uczuć. Ich pierwsza wspólna melodia płynęła łagodnie, a Albert szybko pojął rytm i harmonię.
+Pierwsza lekcja fortepianu nadeszła szybciej, niż Albert się spodziewał. Serena przybyła do jego domu z nutami i błyskiem w oczach, gotowa, by przekazać swoją wiedzę. Albert usiadł przy pianinie, czując, jak powietrze wibruje z emocji. Nauczycielka zachęcała go, by nie myślał o nutach jako o zadaniu, ale jako o sposobie wyrażania uczuć. Ich pierwsza wspólna melodia popłynęła bardzo łagodnie. Albert bardzo szybko pojął rytm i harmonię.
 
 ## 24. Odkrywanie muzyki
 
-Z każdą kolejną lekcją Albert zagłębiał się coraz bardziej w świat muzyki. Serena pokazywała mu różne style muzyczne, od klasycznych sonat Beethovena po energetyczne jazzowe improwizacje. Albert uczył się nie tylko grać, ale i słuchać – rozpoznawać uczucia i historie, które muzyka może opowiadać. Jego umiejętność interpretacji rosła, a z nim rozwijało się jego zrozumienie muzyki jako języka emocji.
+Z każdą kolejną lekcją Albert zagłębiał się coraz bardziej w świat muzyki. Serena pokazywała mu różne style muzyczne, od klasycznych sonat Beethovena po energetyczne jazzowe improwizacje. Albert uczył się nie tylko grać, ale i słuchać – rozpoznawać uczucia i historie, które muzyka może opowiadać. Jego umiejętność interpretacji rosła, a wraz z nią rozwijało się jego zrozumienie muzyki jako języka emocji.
 
 ## 25. Koncert w szkole
 
-Pewnego dnia dyrektor szkoły zaproponował Albertowi, by dał krótki koncert podczas szkolnej uroczystości. Pomimo początkowego zdenerwowania, zdecydował się przyjąć to wyzwanie. Przygotowania trwały tygodnie, a Serena pomagała mu wybrać utwory, które najlepiej wyrażały jego osobowość i umiejętności. Kiedy nadszedł wielki dzień, Albert usiadł przed klawiaturą, oddychając głęboko. Nuty, które popłynęły z jego palców, zachwyciły zarówno uczniów, jak i nauczycieli.
+Pewnego dnia dyrektor szkoły zaproponował Albertowi, by dał krótki koncert podczas szkolnej uroczystości. Pomimo początkowego zdenerwowania, zdecydował się podjąć tego wyzwania. Przygotowania trwały tygodnie, a Serena pomagała mu wybrać utwory, które najlepiej wyrażały jego osobowość i umiejętności. Kiedy nadszedł wielki dzień, Albert usiadł przed klawiaturą, oddychając głęboko. Nuty, które popłynęły z jego palców, zachwyciły zarówno uczniów, jak i nauczycieli.
 
 # Rozdział 6
 
@@ -255,11 +255,11 @@ Serena, widząc potencjał Alberta, zorganizowała wycieczkę do lokalnego konse
 
 ## 27. Spotkanie z kompozytorem
 
-Podczas wizyty w konserwatorium Albert miał szczęście spotkać znanego kompozytora, który był pod wrażeniem jego zainteresowania muzyką. Rozmawiali o procesie tworzenia muzyki, a kompozytor podzielił się z nim kilkoma sekretami swojej pracy. To spotkanie zainspirowało Alberta do eksperymentowania z własnymi kompozycjami.
+Podczas wizyty w konserwatorium Albert miał szczęście spotkać znanego kompozytora, który był pod wrażeniem jego ogromnego zainteresowania muzyką. Rozmawiali o procesie tworzenia muzyki, a kompozytor podzielił się z nim kilkoma sekretami swojej pracy. To spotkanie zainspirowało Alberta do eksperymentowania z własnymi kompozycjami.
 
 ## 28. Inspiracja i twórczość
 
-Zachęcony przez swoje doświadczenia, Albert zaczął eksperymentować z komponowaniem własnych utworów. Serena pomagała mu zrozumieć strukturę i teorię muzyki, co pozwoliło mu na tworzenie coraz bardziej złożonych i emocjonalnie ładownych dzieł. Jego pierwsza własna kompozycja, prosty ale wzruszający utwór, został pozytywnie przyjęty przez rodzinę i przyjaciół.
+Zachęcony przez swoje własne doświadczenia, Albert zaczął eksperymentować z komponowaniem własnych utworów. Serena pomagała mu zrozumieć strukturę i teorię muzyki, co pozwoliło mu na tworzenie coraz bardziej złożonych i emocjonalnie ładownych dzieł. Jego pierwsza własna kompozycja, prosty, ale wzruszający utwór, została pozytywnie przyjęta przez rodzinę i przyjaciół.
 
 # Rozdział 7
 

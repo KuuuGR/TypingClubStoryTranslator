@@ -216,19 +216,19 @@ Camilla usiadła przy ognisku. Małpy szczebiotały cicho w oddali, podczas gdy 
 
 ## 23. Nocne obserwacje
 
-Po długim dniu Camilla zmęczona udała się na spoczynek, ale dżungla w nocy miała swoje własne plany. Około północy obudził ją dziwny hałas. Wstała i wyjrzała z namiotu, widząc złote oczy odbijające się w światłach obozu. Dr Santos uspokoiła Camillę, wyjaśniając, że to tylko jaguar przyszedł zwabić zdobycz. "Jaguary rzadko atakują ludzi," powiedziała, choć sama też była czujna. Camilla sięgnęła po notatnik, aby zapisać swoje obserwacje z tej niespodziewanej wizyty nocnego gościa.
+Po długim dniu Camilla zmęczona poszła spać, ale dżungla w nocy pozostawała pełna życia. Około północy obudził ją dziwny hałas. Wstała i wyjrzała z namiotu, widząc złote oczy odbijające się w światłach obozu. Dr Santos uspokoiła Camillę, wyjaśniając, że to tylko jaguar przyszedł zwabić zdobycz. "Jaguary rzadko atakują ludzi," powiedziała, choć sama też była czujna. Camilla sięgnęła po notatnik, aby zapisać swoje obserwacje z tej niespodziewanej wizyty nocnego gościa.
 
 ## 24. Tajemnicze dźwięki
 
-Następnego poranka naukowcy w obozie opowiadali o tajemniczych dźwiękach, jakie słyszeli w nocy. Camilla słyszała głębokie buczenie, przypominające odgłos odległych bębnów. Dr Santos zasugerowała, że mogły to być odgłosy harpii wielkiej, jednego z największych ptaków drapieżnych na świecie. Camilla postanowiła sprawdzić to i wzięła ze sobą lornetkę, aby wyruszyć na poszukiwanie ptasiego głosu.
+Następnego poranka naukowcy w obozie opowiadali o tajemniczych dźwiękach, jakie słyszeli w nocy. Camilla słyszała głębokie buczenie, jakby odległe bębny. Dr Santos zasugerowała, że mogły to być odgłosy harpii wielkiej, jednego z największych ptaków drapieżnych na świecie. Camilla postanowiła sprawdzić to i wzięła ze sobą lornetkę, aby wyruszyć na poszukiwanie ptasiego głosu.
 
 ## 25. Spotkanie z harpią
 
-Wkrótce Camilla natknęła się na gniazdo harpii wysoko na jednym z drzew kapokowych. Z daleka widziała wielkie szpony ptaka chwytającego leniwca. Była zafascynowana siłą tego stworzenia. Użyła swojej kamery, aby uchwycić chwilę, choć wiedziała, że zbliżanie się do gniazda byłoby niebezpieczne. Harpia złowrogo spojrzała w jej stronę, zanim odleciała w głąb lasu.
+Wkrótce Camilla natknęła się na gniazdo harpii wysoko na jednym z drzew kapokowych. Z daleka widziała wielkie szpony ptaka chwytającego leniwca. Była zafascynowana siłą tego stworzenia. Użyła kamery, aby uchwycić chwilę, zdając sobie sprawę z niebezpieczeństwa zbliżenia się do gniazda. Harpia złowrogo spojrzała w jej stronę, zanim odleciała w głąb lasu.
 
 ## 26. Opówiedziana legenda
 
-Po powrocie do obozu Camilla podzieliła się swoimi odkryciami z resztą zespołu. Jedna z lokalnych przewodniczek, María, opowiedziała im o lokalnej legendzie związanej z harpią. Według wierzeń plemiennych harpia strzeże dusz zmarłych przodków i ostrzega przed nadchodzącymi niebezpieczeństwami. Historia ta zainspirowała Camillę do przemyśleń o współzależności natury i ludzi.
+Po powrocie do obozu Camilla podzieliła się swoimi odkryciami z resztą zespołu. Jedna z lokalnych przewodniczek, María, opowiedziała im o lokalnej legendzie związanej z harpią. Według lokalnych wierzeń harpia strzeże dusz przodków i ostrzega przed zagrożeniami. Historia ta zainspirowała Camillę do przemyśleń o współzależności natury i ludzi.
 
 ## 27. Pułapka
 
@@ -236,7 +236,7 @@ Podczas jednej z wypraw badawczych Camilla i jej zespół natknęli się na śla
 
 ## 28. Niespodzianka na filmie
 
-Wieczorem zespół sprawdził kamerę. Ku ich zdziwieniu, zamiast jaguara, uchwycili zdjęcia tapira. "To rzadki widok!" ekscytowała się Dr Santos. Chociaż nie był to oczekiwany drapieżnik, Camilla była zadowolona z tego odkrycia. Był to ważny element dokumentowania bioróżnorodności Amazonii.
+Wieczorem zespół sprawdził kamerę. Ku ich zdziwieniu, zamiast jaguara, uchwycili na zdjęciach tapira. "To rzadki widok!" ekscytowała się Dr Santos. Chociaż nie był to oczekiwany drapieżnik, Camilla była zadowolona z tego odkrycia. Był to ważny element dokumentowania bioróżnorodności Amazonii.
 
 ---
 
@@ -244,7 +244,7 @@ Wieczorem zespół sprawdził kamerę. Ku ich zdziwieniu, zamiast jaguara, uchwy
 
 ## 29. Burza
 
-Następnego dnia Camilla zauważyła, że niebo zaczyna się chmurzyć. Powietrze było wilgotne i ciężkie. Wkrótce zerwał się wiatr, a tropikalna burza rozszalała się nad obozem. Camilla i reszta zespołu musieli szybko zabezpieczyć swoje namioty i sprzęt. Deszcz lał strumieniami, ale dla Camilli był to kolejny dowód na siłę przyrody.
+Następnego dnia Camilla zauważyła, że niebo zaczyna się chmurzyć. Powietrze zdawało się być ciężkie od wilgoci. Wkrótce zerwał się wiatr, a tropikalna burza rozszalała się nad obozem. Camilla i reszta zespołu musieli szybko zabezpieczyć swoje namioty i sprzęt. Deszcz lał strumieniami, ale dla Camilli był to kolejny dowód na siłę przyrody.
 
 ## 30. Po burzy
 
@@ -256,11 +256,11 @@ Podczas sprzątania zniszczeń jeden z członków zespołu znalazł na brzegu rz
 
 ## 32. Włócznia
 
-W trakcie dalszych badań terenowych zespół odkrył kolejne artefakty, w tym drewnianą włócznię ozdobioną wzorami. María wyjaśniła, że takie włócznie były używane podczas rytuałów. Camilla postanowiła szczegółowo udokumentować znalezisko i zabrać je do analizy w obozie. Wiedziała, że odkrycia te mogą przyciągnąć większą uwagę naukowców.
+Podczas dalszych badań zespół odkrył kolejne artefakty, w tym włócznię ozdobioną wzorami. María wyjaśniła, że takie przedmioty były używane podczas rytuałów. Camilla postanowiła szczegółowo udokumentować znalezisko i zabrać je do analizy w obozie. Wiedziała, że odkrycia te mogą przyciągnąć większą uwagę naukowców.
 
 ## 33. Powrót jaguara
 
-Jednej z ostatnich nocy Camilla znowu usłyszała hałas w pobliżu obozu. Wyszła z namiotu, uzbrojona w latarkę. Na granicy światła dostrzegła znajome złote oczy. Tym razem jaguar był bliżej. Obserwował ich w ciszy, zanim odszedł w głąb ciemności. Camilla czuła jednocześnie strach i podziw. Spotkanie to było niezapomniane.
+Jednej z ostatnich nocy Camilla znowu usłyszała hałas w pobliżu obozu. Wyszła z namiotu, uzbrojona w latarkę. Na granicy światła dostrzegła znajome złote oczy. Tym razem jaguar był bliżej. Obserwował ich w ciszy, zanim odszedł w głąb ciemności. Camilla czuła jednocześnie strach i podziw. Było to wielce niezapomniane spotkanie.
 
 ## 34. Pożegnanie z dżunglą
 
@@ -278,7 +278,7 @@ Po powrocie z Amazonii Camilla została zaproszona do lokalnej szkoły, aby podz
 
 ## 37. Zafascynowane dzieci
 
-Uczniowie byli zachwyceni opowieściami o tarantulach, gigantycznych liliach wodnych i kapibaraach. "Czy tarantula mogła cię ugryźć?" zapytał chłopiec z pierwszego rzędu. Camilla uspokoiła go, wyjaśniając, że większość pająków nie jest niebezpieczna dla ludzi, jeśli się ich nie drażni.
+Uczniowie byli zachwyceni opowieściami o tarantulach, gigantycznych liliach wodnych i kapibarach. "Czy tarantula mogła cię ugryźć?" zapytał chłopiec z pierwszego rzędu. Camilla uspokoiła go, wyjaśniając, że większość pająków nie jest niebezpieczna dla ludzi, jeśli się ich nie drażni.
 
 ## 38. Lekcja o bioróżnorodności
 
@@ -304,4 +304,4 @@ Przed wyjazdem Camilla została zaproszona do udziału w specjalnym recitalu w m
 
 ## 43. Pożegnanie i nowe początki
 
-W dniu wyjazdu cała społeczność lokalna zebrała się, aby pożegnać Camillę. Nauczyciele, uczniowie, a nawet przypadkowi mieszkańcy przyszli, aby życzyć jej powodzenia. Camilla, wzruszona, obiecała, że wróci z nowymi odkryciami i opowieściami, które będą inspirować kolejne pokolenia. Wsiadając do samolotu, wiedziała, że jej misja naukowa dopiero się rozpoczyna.
+W dniu wyjazdu cała społeczność lokalna zebrała się, aby pożegnać Camillę. Nauczyciele, uczniowie, a nawet przypadkowi mieszkańcy przyszli, aby życzyć jej powodzenia. Camilla, wzruszona, obiecała, że wróci z nowymi odkryciami i opowieściami, które zapewne będą inspirować kolejne pokolenia. Wsiadając do samolotu, wiedziała, że jej misja naukowa dopiero się rozpoczyna.

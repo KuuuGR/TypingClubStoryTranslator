@@ -227,11 +227,11 @@ Pewnej nocy, Sam miał sen, w którym Luna i jej przyjaciele wzywali go z powrot
 
 ## 24. Reunion
 
-Gdy Sam przekroczył portal, znów znalazł się w zaczarowanym lesie. Wszystko wydawało się takie samo, jak zostawił. Luna i reszta grupy przywitali go z radością. Opowiedział im o swoich badaniach i maszynie, którą zbudował, a oni podzielili się swoimi historiami o zmianach w lesie. Sam zdał sobie sprawę, że jego powroty mogą być kluczem do zrozumienia większych tajemnic tego świata.
+Gdy Sam przekroczył portal, znów znalazł się w zaczarowanym lesie. Wszystko wydawało się takie samo, jak zostawił. Luna i reszta grupy przywitali go z radością. Opowiedział im o swoich badaniach i maszynie, którą zbudował, a oni podzielili się swoimi historiami o zmianach jakie zaszły w lesie podczas jego nieobecności. Sam zdał sobie sprawę, że jego powroty mogą być kluczem do zrozumienia większych tajemnic tego świata.
 
 ## 25. Misja
 
-Po długich rozmowach z Luną i jej przyjaciółmi, Sam zdecydował, że jego misją będzie nie tylko eksploracja, ale również ochrona tego zaczarowanego świata. Zobowiązał się do regularnych wizyt i pracy nad zrozumieniem, jak jego działania w jednym świecie wpływają na drugi. Rozpoczął projekt dokumentacji różnorodności biologicznej lasu i badania wpływu jego obecności na lokalny ekosystem.
+Po długich rozmowach z Luną i jej przyjaciółmi, Sam zdecydował, że jego misją będzie nie tylko eksploracja, ale również ochrona tego zaczarowanego świata. Zobowiązał się do regularnych wizyt i pracy nad zrozumieniem, jak jego działania w jednym świecie wpływają na świat drugi. Rozpoczął projekt dokumentacji różnorodności biologicznej lasu i badania wpływu jego obecności na lokalny ekosystem.
 
 ## 26. Znaczenie marzeń
 
@@ -241,7 +241,7 @@ Sam powrócił do domu, przynosząc ze sobą nową wiedzę i determinację, aby 
 
 ## 27. Laboratorium Sama
 
-Sam zbudował małe laboratorium w swojej piwnicy, aby kontynuować swoje eksperymenty z portalem. Zaopatrzył się w zaawansowane sprzęty i narzędzia, które pomagały mu monitorować i kontrolować warunki otwarcia portalu. Z czasem jego eksperymenty stały się bardziej skomplikowane, łącząc fizykę kwantową z teoriami multiversum, co pozwoliło mu na stabilniejsze i bardziej przewidywalne przejścia.
+Sam zbudował małe laboratorium w swojej piwnicy, aby kontynuować swoje eksperymenty z portalem. Zaopatrzył się w zaawansowane sprzęty i narzędzia, które pomagały mu monitorować i kontrolować warunki otwarcia portalu. Z czasem jego eksperymenty stały się bardziej skomplikowane, łącząc fizykę kwantową z teoriami multiwersum, co pozwoliło mu na stabilniejsze i bardziej przewidywalne przejścia.
 
 ## 28. Odkrycie
 
